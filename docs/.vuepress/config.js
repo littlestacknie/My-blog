@@ -12,7 +12,7 @@ export default defineUserConfig({
         link: '/',
       },
       {
-        text: 'intro',
+        text: 'Intro',
         link: '/main/intro.md',
       }, {
         text: '前端基础',
@@ -35,6 +35,9 @@ export default defineUserConfig({
       }, {
         text: 'React',
         link: '/main/react/react.md',
+      }, {
+        text: '每日一题',
+        link: '/main/每日一题.md',
       }
     ],
   }),
