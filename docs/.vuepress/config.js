@@ -23,6 +23,9 @@ export default defineUserConfig({
           text: 'CSS',
           link: '/main/front-end/css.md',
         }, {
+          text: 'BOM',
+          link: '/main/front-end/BOM.md',
+        }, {
           text: 'JS',
           link: '/main/front-end/js.md',
         }, {
