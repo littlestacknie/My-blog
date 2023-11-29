@@ -9,7 +9,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: '首页',
-        link: '/',
+        link: '/README.md',
       },
       {
         text: 'Intro',
@@ -41,6 +41,9 @@ export default defineUserConfig({
       }, {
         text: '每日一题',
         link: '/main/每日一题.md',
+      },{
+        text: 'RUST',
+        link: '/main/rust.md',
       }
     ],
   }),
